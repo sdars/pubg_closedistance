@@ -11,4 +11,5 @@
 复制这段内容打开「百度网盘APP 即可获取」
 
 效果图：
-![image]([https://github.com/longsongline/Steins-Gate-Divergence-Meter-Clock-VisitorCounter/raw/main/OVK2VX@NSLC2YR_%7B5WVP%7D%7DQ.png](https://github.com/joken5/pubg_closedistance/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)https://github.com/joken5/pubg_closedistance/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
+
+![image](https://github.com/joken5/pubg_closedistance/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
