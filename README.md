@@ -8,3 +8,5 @@
 效果图：
 
 ![image](https://github.com/joken5/pubg_closedistance/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE2.jpg)
+
+软件还不够完善，后续会修复，有问题提issue。
