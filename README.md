@@ -5,7 +5,7 @@
 提取码:3uze
 复制这段内容打开「百度网盘APP 即可获取」
 
-效果图：
+效果图(红点就是敌人所在的方向)：
 
 ![image](https://github.com/joken5/pubg_closedistance/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE2.jpg)
 
