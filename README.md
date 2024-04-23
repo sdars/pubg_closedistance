@@ -1,6 +1,7 @@
 和平精英游戏辅助，近距离的敌人方向提示，非透视，非挂，不用root，不修改数据，永不被封，只支持安卓8以上。
 
 apk下载地址：https://www.pgyer.com/qQGCWp
+
 apk使用教程地址：
 https://pan.baidu.com/s/1PLnk-TQG_3SHNnMkTaWFcA?pwd=z5o2 
 
