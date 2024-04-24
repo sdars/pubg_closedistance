@@ -11,4 +11,6 @@ https://pan.baidu.com/s/1PLnk-TQG_3SHNnMkTaWFcA?pwd=z5o2 
 视频演示：
 https://www.douyin.com/video/7341338228437290280
 
-软件还不够完善，后续会修复，有问题提issue。
+软件还不够完善，有问题提issue。
+
+
